@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay6966
-- 👀 I’m interested in Data Analyst role.
-- 🌱 I’m currently learning Python & SQL...
+- 👀 I’m interested in Data Analysis, finding patterns within data and representing them clearly.
+- 🌱 I’m currently learning visualisation libraries such as plotly, matplotlib in Python...
 - 📫 You can reach me at akshay.ar.011@gmail.com
 
 
