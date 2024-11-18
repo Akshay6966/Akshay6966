@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshay6966
 - 👀 I’m interested in Data Analysis, finding patterns within data and representing them clearly.
 - 🌱 I’m currently looking for opportunities to start my career in the field of data analysis.
-- 📫 You can reach me at akshay.ar.011@gmail.com / linkedin.com/in/akshaykumar-raut/
+- 📫 You can reach me at akshay.ar.011@gmail.com / https://www.linkedin.com/in/akshaykumar-raut/
 
 
 <!---
